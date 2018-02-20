@@ -11,5 +11,8 @@ int main() {
     cout << "Masukkan lebar: "; cin >> lebar;
     cout << "Masukkan tinggi: "; cin >> tinggi;
 
+    cout << "---------------" << endl;
+
+    cout << "Luas balok adalah: " << panjang * lebar << " cm" << endl;
     cout << "Volume balok adalah: " << panjang * lebar * tinggi << " cm" << endl;
 }
