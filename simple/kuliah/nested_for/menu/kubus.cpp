@@ -3,6 +3,13 @@
 #include <cstdlib>
 using namespace std;
 
+int selanjutnya() {
+    cout << "Menu 1" << endl;
+    cout << "Menu 2" << endl;
+    cout << "Menu 3" << endl;
+    cout << "Menu 4" << endl;
+}
+
 int main() {
     int input_menu;
 
@@ -38,3 +45,4 @@ int main() {
         default: cout << "Invalid input" << endl;
     }
 }
+

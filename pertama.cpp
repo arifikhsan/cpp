@@ -1,6 +1,9 @@
 #include <iostream>
+#include <cstdlib>
+using namespace std;
 
 int main (void) {
-    std::cout << "Hello World!\n";
-    return 0;
+    cout << "Hello World!\n";
+    system("clear");
+    cout << "Hello World!\n";
 }
