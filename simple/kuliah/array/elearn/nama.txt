@@ -1,0 +1,4 @@
+nama:   Arif Ikhsanudin             5170411030
+        Rizqie Miftakhuddin Noor    5170411030
+
+Kode dijalankan di visual studio atau linux
